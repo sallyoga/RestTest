@@ -1,0 +1,74 @@
+{
+  "restaurants": [
+    {
+      "coverImageUrl": "https://tenbis-static.azureedge.net/restaurant-default-header-image/CuzineType_american.jpg",
+      "id": 52440,
+      "minimumOrder": 106,
+      "name": "Charlotte place",
+      "open": false
+    },
+    {
+      "coverImageUrl": "https://tenbis-static.azureedge.net/restaurant-default-header-image/CuzineType_pizza.jpg",
+      "id": 33435,
+      "minimumOrder": 237,
+      "name": "Elijah place",
+      "open": false
+    },
+    {
+      "coverImageUrl": "https://tenbis-static.azureedge.net/restaurant-default-header-image/CuzineType_pizza.jpg",
+      "id": 24902,
+      "minimumOrder": 229,
+      "name": "Mia place",
+      "open": false
+    },
+    {
+      "coverImageUrl": "https://tenbis-static.azureedge.net/restaurant-default-header-image/CuzineType_fish.jpg",
+      "id": 65373,
+      "minimumOrder": 24,
+      "name": "Lucas place",
+      "open": false
+    },
+    {
+      "coverImageUrl": "https://tenbis-static.azureedge.net/restaurant-default-header-image/CuzineType_fish.jpg",
+      "id": 81918,
+      "minimumOrder": 44,
+      "name": "Amelia place",
+      "open": false
+    },
+    {
+      "coverImageUrl": "https://tenbis-static.azureedge.net/restaurant-default-header-image/CuzineType_burgers.jpg",
+      "id": 55113,
+      "minimumOrder": 67,
+      "name": "Mason place",
+      "open": false
+    },
+    {
+      "coverImageUrl": "https://tenbis-static.azureedge.net/restaurant-default-header-image/CuzineType_pizza.jpg",
+      "id": 5511,
+      "minimumOrder": 54,
+      "name": "Harper place",
+      "open": false
+    },
+    {
+      "coverImageUrl": "https://tenbis-static.azureedge.net/restaurant-default-header-image/CuzineType_fish.jpg",
+      "id": 2542,
+      "minimumOrder": 76,
+      "name": "Logan place",
+      "open": false
+    },
+    {
+      "coverImageUrl": "https://tenbis-static.azureedge.net/restaurant-default-header-image/CuzineType_cafe.jpg",
+      "id": 17398,
+      "minimumOrder": 50,
+      "name": "Evelyn place",
+      "open": true
+    },
+    {
+      "coverImageUrl": "https://tenbis-static.azureedge.net/restaurant-default-header-image/CuzineType_sushi.jpg",
+      "id": 86466,
+      "minimumOrder": 43,
+      "name": "Gil place",
+      "open": true
+    }
+  ]
+}

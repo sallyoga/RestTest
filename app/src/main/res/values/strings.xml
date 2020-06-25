@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RestaurantsTest</string>
+
+    <string name="error_text">An error occurred while loading data</string>
+    <string name="minimum_order_string">Minimum Order:</string>
+    <string name="open_string">Open</string>
+    <string name="close_string">Close</string>
+</resources>
